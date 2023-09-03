@@ -1,3 +1,4 @@
+web3 is a crowdfunding application built using solidity. It is deployed on thirdweb and uses sepolia endpoint.
 ## Getting Started
 
 Create a project using this example:
